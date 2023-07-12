@@ -17,3 +17,4 @@
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/534436407603888138/1128639146123075694/LightMode.svg">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode.">
 </picture>
+Trouble seeing? Check it out on imgur: https://i.imgur.com/pX0DPDe.png
